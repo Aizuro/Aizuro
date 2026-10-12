@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/aizuro-banner.png" alt="Aizuro - Building Intelligent Systems" width="100%">
+</p>
+
 # Hi, I'm Abdul Azizur Rokhman 😸
 
 ### AI Engineer | Agentic AI | Machine Learning
