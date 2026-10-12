@@ -51,6 +51,7 @@ An Indonesian-language reminder application that explores natural language proce
 
 - [LinkedIn](https://www.linkedin.com/in/abdul-azizur-rokhman-300118260/)
 - [Hugging Face](https://huggingface.co/Aizuro)
+- [Streamlit](https://share.streamlit.io/user/aizuro)
 
 ---
 
