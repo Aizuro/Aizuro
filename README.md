@@ -19,7 +19,7 @@ I build practical AI applications powered by LLMs, RAG, agentic workflows, and m
 
 An AI-powered regulatory intelligence system designed to support regulatory research, document retrieval, comparison, and monitoring.
 
-**Focus:** RAG, Agentic AI, FastAPI, SQLite, n8n, automated testing, and monitoring.
+**Focus:** RAG, Agentic AI, FastAPI, SQLite, n8n, Flask, automated testing, and monitoring.
 
 ### Multi-label Body Posture Classification
 
