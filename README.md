@@ -1,4 +1,4 @@
-# Hi, I'm Abdul Azizur Rokhman 👋
+# Hi, I'm Abdul Azizur Rokhman
 
 ### Aspiring AI Engineer | Agentic AI | Machine Learning
 
