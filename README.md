@@ -1,20 +1,19 @@
-# Hi, I'm Abdul Azizur Rokhman
+# Hi, I'm Abdul Azizur Rokhman 😸
 
-### Aspiring AI Engineer | Agentic AI | Machine Learning
+### AI Engineer | Agentic AI | Machine Learning
 
-I build practical AI applications using Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), agentic workflows, and machine learning.
+*Building intelligent systems with a touch of the unexpected.*
 
-My focus is on developing end-to-end AI systems, from data processing and model development to API integration, automation, testing, and deployment.
+I build practical AI applications powered by LLMs, RAG, agentic workflows, and machine learning. My focus is turning ideas into working systems through thoughtful engineering, automation, and experimentation.
 
-- Currently developing AI-powered applications and intelligent automation systems
-- Interested in Agentic AI, LLM applications, RAG, and Machine Learning
-- Tech stack: Python, FastAPI, scikit-learn, LightGBM, SQL, and n8n
-- Based in Indonesia
-- Open to AI Engineer, AI Developer, and Machine Learning opportunities
+🟣 Currently building: Quan - AI Quantitative Market Analysis Copilot
+🧠 Exploring: Agentic AI, LLM applications, and applied ML
+⚙️ Working with: Python, FastAPI, scikit-learn, SQL, and n8n
+📍 Based in: Indonesia
 
 ---
 
-## Featured Projects
+## 👾 Featured Projects
 
 ### Regula — Regulatory Intelligence Agent
 
@@ -36,19 +35,19 @@ An Indonesian-language reminder application that explores natural language proce
 
 ---
 
-## Tech Stack
+## 🧰 Tech Arsenal
 
-**Languages:** Python, SQL
-
-**AI & Machine Learning:** scikit-learn, LightGBM, NLP, LLMs, RAG
-
-**Backend & Automation:** FastAPI, SQLite, n8n
-
-**Data & Tools:** Pandas, NumPy, Git, GitHub, Docker
+| Category | Technologies |
+|---|---|
+| Languages | Python, SQL |
+| AI / ML | scikit-learn, LightGBM, NLP, LLMs, RAG |
+| Backend | FastAPI, SQLite |
+| Automation | n8n |
+| Tools | Git, GitHub, Docker |
 
 ---
 
-## 📫 Connect with Me
+## 💬 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/abdul-azizur-rokhman-300118260/)
 - [Hugging Face](https://huggingface.co/Aizuro)
@@ -56,18 +55,3 @@ An Indonesian-language reminder application that explores natural language proce
 ---
 
 *Always learning, building, and improving.*
-
-<!--
-**Aizuro/Aizuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
