@@ -45,7 +45,7 @@ An Indonesian-language reminder application that explores natural language proce
 |---|---|
 | Languages | Python, SQL, JavaScript |
 | AI / ML | AI Agent, scikit-learn, NLP, LLMs, RAG, Computer Vision, TensorFlow, PyTorch, Feature Engineering, MediaPipe |
-| Backend | FastAPI, SQLite, ChromaDB |
+| Backend | FastAPI, MySQL, SQLite, ChromaDB |
 | Automation | n8n |
 | Tools | Git, GitHub, Docker |
 
