@@ -21,13 +21,13 @@ An AI-powered regulatory intelligence system designed to support regulatory rese
 
 **Focus:** RAG, Agentic AI, FastAPI, SQLite, n8n, automated testing, and monitoring.
 
-### Body Posture Classification
+### Multi-label Body Posture Classification
 
 A computer vision and machine learning project for classifying body posture patterns using pose landmarks and supervised learning.
 
 **Focus:** MediaPipe, feature engineering, LightGBM, SVM, and model evaluation.
 
-### AI-Powered Reminder
+### AI-Powered Reminder (Indonesia Language)
 
 An Indonesian-language reminder application that explores natural language processing and date/time extraction.
 
@@ -39,9 +39,9 @@ An Indonesian-language reminder application that explores natural language proce
 
 | Category | Technologies |
 |---|---|
-| Languages | Python, SQL |
-| AI / ML | scikit-learn, LightGBM, NLP, LLMs, RAG |
-| Backend | FastAPI, SQLite |
+| Languages | Python, SQL, JavaScript |
+| AI / ML | AI Agent, scikit-learn, NLP, LLMs, RAG, Computer Vision, TensorFlow, PyTorch, Feature Engineering, MediaPipe |
+| Backend | FastAPI, SQLite, ChromaDB |
 | Automation | n8n |
 | Tools | Git, GitHub, Docker |
 
