@@ -29,7 +29,7 @@ An AI-powered regulatory intelligence system designed to support regulatory rese
 
 A computer vision and machine learning project for classifying body posture patterns using pose landmarks and supervised learning.
 
-**Focus:** MediaPipe, feature engineering, LightGBM, SVM, and model evaluation.
+**Focus:** MediaPipe, feature engineering, LightGBM, SVM, ANN and model evaluation.
 
 ### AI-Powered Reminder (Indonesia Language)
 
