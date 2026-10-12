@@ -6,10 +6,10 @@
 
 I build practical AI applications powered by LLMs, RAG, agentic workflows, and machine learning. My focus is turning ideas into working systems through thoughtful engineering, automation, and experimentation.
 
-🟣 Currently building: Quan - AI Quantitative Market Analysis Copilot
-🧠 Exploring: Agentic AI, LLM applications, and applied ML
-⚙️ Working with: Python, FastAPI, scikit-learn, SQL, and n8n
-📍 Based in: Indonesia
+- 🟣 Currently building: Quan - AI Quantitative Market Analysis Copilot
+- 🧠 Exploring: Agentic AI, LLM applications, and applied ML
+- ⚙️ Working with: Python, FastAPI, scikit-learn, SQL, and n8n
+- 📍 Based in: Indonesia
 
 ---
 
