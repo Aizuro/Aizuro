@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/github_banner.png" alt="Aizuro - Building Intelligent Systems" width="100%">
+  <img src="assets/github-banner.png" alt="Aizuro - Building Intelligent Systems" width="100%">
 </p>
 
 # Hi, I'm Abdul Azizur Rokhman 😸
