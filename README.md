@@ -54,4 +54,4 @@ An Indonesian-language reminder application that explores natural language proce
 
 ---
 
-*Always learning, building, and improving.*
+*Stay curious. Build quietly. Ship intelligently👾*
